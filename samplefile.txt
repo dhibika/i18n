@@ -1,5 +1,5 @@
 release 1
-release 2
+i18n 2
 release 3
 release 4
 release 5
