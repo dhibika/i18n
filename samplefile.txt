@@ -12,4 +12,4 @@ release 11
 release 12i
 
 
-i18n 1
+i18n 2 
